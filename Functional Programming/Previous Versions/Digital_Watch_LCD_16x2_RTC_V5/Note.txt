@@ -1,0 +1,1 @@
+change the pins and clear the row(1) in set date and day name

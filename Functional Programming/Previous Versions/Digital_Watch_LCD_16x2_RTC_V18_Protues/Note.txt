@@ -1,0 +1,5 @@
+1- correct these functions:
+   -OperationOfShowStopWatchScreen
+   -InterruptOperationsForPushButton4InStopWatch
+   -UpdateHijriDateAndDayName
+

@@ -1,0 +1,5 @@
+1- Recogize ShowDateAndTimeScreen Function.
+2- Recogize ShowStopWatchScreen Function.
+
+
+

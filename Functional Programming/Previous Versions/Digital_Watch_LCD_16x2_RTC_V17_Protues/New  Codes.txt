@@ -1,0 +1,37 @@
+#define InterruptPin 19
+-
+-
+-
+-
+-
+-
+-
+-
+-
+void GetValueOfPushButton4()
+{
+   
+    if(digitalRead(PushButton4))
+    PushButton4_Value = HIGH;
+   else
+    PushButton4_Value = LOW;
+
+}
+
+int ChangeValueForIsAllowCountStopWatch = 0; 
+
+void InterruptOperationsForPushButton4InStopWatch()
+{
+  GetValueOfPushButton4();
+  if(CurrentScreen==1 &&  ChangeValueForIsAllowCountStopWatch != 1)
+  {
+    IsAllowCountStopWatch ^= 1;
+    ChangeValueForIsAllowCountStopWatch = 1;
+  }
+
+    if(CurrentScreen==1 && ChangeValueForIsAllowCountStopWatch == 1)
+  {
+    ChangeValueForIsAllowCountStopWatch = 0;
+  }
+
+}

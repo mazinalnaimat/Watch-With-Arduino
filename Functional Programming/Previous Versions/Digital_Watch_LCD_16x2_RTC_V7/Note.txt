@@ -1,0 +1,12 @@
+1- Use I2C LCD
+2- Change Button1 to conncet with 5V.
+3- change MaxCountAlarmPeep & MaxCountFullPointsShow.
+4- Put incraseing of MaxCountFullPointsShow with MaxCountAlarmPeep.
+5- Use Funtion NumberOfDdaysInMonth Instead array .
+6- fix trun on the alarm when the hours and minute is alarm(Hours, Minute) when pressing btn3 & btn4.
+   a- Add Variable bool TurnOffAlarm.
+   b- Create Function UpdateAlarmOperationbtn4.
+7-Change all period waiting numbers by #define.
+
+
+

@@ -1,0 +1,5 @@
+1- fix UpdateAlarmNapTimeOperationsbtn3 Function. 
+2- Recognize ShowSetAlarmTimeScreen. 
+3- Recognize ShowSetTimeAndDateScreen.
+
+

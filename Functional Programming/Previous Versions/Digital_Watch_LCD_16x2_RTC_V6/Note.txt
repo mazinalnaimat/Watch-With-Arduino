@@ -1,0 +1,6 @@
+1- stop the alarm nap when the alarm time changes.
+2- Create Function ChangeTheHourValueWhen24HoursTo12Hours.
+3- Create Function UpdateAlarmTimeOperations. 
+4- Reduce the lines for Input_PullUp || Input_PullDown. 
+5- Create Function UpdateAlarmNapTimeOperations.
+

@@ -1,0 +1,9 @@
+1- make all functions contain just local variable and parameters.
+2- Cahnge     WriteOnCleanRowOnLcd(Column - 2, Row, Time); by  WriteOnColumnAndRowOnLcd(Column - 2, Row, String(Time +"  "));
+  a- to stop blinking on AM * PM.
+3- make the left byte in 2byte in EEPROM in first.
+4-Change var CountPushButton4ForStopWatch by var IsAllowCountStopWatch .
+
+
+
+

@@ -1,0 +1,5 @@
+1- Fix Show Time in main screen @ 24Hours and Stop Watch.
+
+
+
+

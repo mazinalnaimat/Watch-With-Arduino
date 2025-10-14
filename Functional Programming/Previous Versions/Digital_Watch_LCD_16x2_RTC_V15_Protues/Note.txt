@@ -1,0 +1,19 @@
+1- Add MilliSecond variable and depend on it to increase time isntead rtc1302 by numbering usnig timer1 in MilliSeconds.
+
+
+
+
+----must be update all in functions (create function to above to imrovment the code the the performance )
+
+
+
+
+
+
+
+
+
+2- make the ring of the alarm same an all screens
+3- change the pins for input push buttons 
+
+
