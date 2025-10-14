@@ -12,3 +12,11 @@ this project is created for learn and apply programming skills
 
 
 you can try that in tinkercad simulation: https://www.tinkercad.com/things/0I0BCOHZ7Lf-digital-watch-by-lcd16x2
+
+
+
+
+practical explain in this video:
+[![Watch the video](https://img.youtube.com/vi/87nxdlWf3KY/0.jpg)](https://www.youtube.com/watch?v=87nxdlWf3KY)
+
+
