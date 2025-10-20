@@ -1,3 +1,6 @@
+<img src="Functional Programming/Watch 128x64 mega and uno\Watch Arduino Mega 128x64 LCD RTC .png" alt="Demo Screenshot" width="400"/>
+<p align="center">Figure 1: Application Demo</p>
+
 We create digital watch by using arduino, lcd and rtc.
 
 there code for arduino ide and for platformio
