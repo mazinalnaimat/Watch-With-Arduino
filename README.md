@@ -12,8 +12,10 @@ in the first using functional programming then using [OOP programming(soon)]
 this project is created for learn and apply programming skills
 
 
-<img src="Functional Programming/Watch 128x64 mega and uno\Watch Arduino Mega 128x64 LCD RTC .png" alt="Watch Connections" width="600"/>
-<p align="center">Watch Connections</p>
+<div align="center">
+  <img src="Functional Programming/Watch 128x64 mega and uno/Watch Arduino Mega 128x64 LCD RTC .png" alt="Watch Connections" width="600"/>
+  <p>Watch Connections</p>
+</div>
 
 
 you can try that in tinkercad simulation: https://www.tinkercad.com/things/0I0BCOHZ7Lf-digital-watch-by-lcd16x2
